@@ -1,3 +1,6 @@
 [submodule "roboarm_controller"]
 	path = roboarm_controller
 	url = https://github.com/Vladislavo/roboarm_controller.git
+[submodule "roboarm_hand_tracker"]
+	path = roboarm_hand_tracker
+	url = https://github.com/Vladislavo/roboarm_hand_tracker.git
