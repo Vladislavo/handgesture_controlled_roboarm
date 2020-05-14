@@ -1,0 +1,3 @@
+[submodule "roboarm_controller"]
+	path = roboarm_controller
+	url = https://github.com/Vladislavo/roboarm_controller.git
